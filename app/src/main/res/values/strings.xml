@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="sensor_icon">Sensor Icon</string>
+    <string name="sensors_count">Liczba czujników: %d</string>
+    <string name="missing_sensor">Brak sensora</string>
+    <string name="light_sensor_label">Natężenie światła: %1$.2f lx</string>
+    <string name="proximity_sensor_label">Odległość: %1$.2f cm</string>
+    <string name="unknown_sensor_label">Nieznany typ sensora</string>
+    <string name="location_permission_denied">Dostęp do lokalizacji został odrzucony</string>
+    <string name="location_text">Szerokość geograficzna: %1$.4f \n Długość geograficzna: %2$.4f \n Czas: %3$s</string>
+    <string name="no_location">Lokalizacja jest niedostępna</string>
+    <string name="get_location_button">Pobierz lokalizację</string>
+    <string name="address_text">Adres: %1$s \n Czas: %2$s</string>
+
+    <string name="no_address_found">Adres nie został znaleziony</string>
+    <string name="service_not_available">Usługa geokodowania jest niedostępna</string>
+
+    <string name="temperature_text">Temperatura: %.1f °C</string>
+    <string name="no_temperature_sensor">Sensor temperatury nie jest dostępny</string>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
